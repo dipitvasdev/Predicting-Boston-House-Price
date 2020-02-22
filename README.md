@@ -4,7 +4,7 @@ Given the features and corresponding prices of Houses in Boston. Predict the pri
 
 DataSet Information:-https://github.com/dipitvasdev/Predicting-Boston-House-Price/blob/master/DataSet%20Information.md 
 
-Model: MULTIVARIATE LINEAR REGRESSION
+Model: MULTI FEATURE LINEAR REGRESSION
 
 Data Set:- https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html#sklearn.datasets.load_boston
 
